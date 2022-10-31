@@ -37,6 +37,7 @@ function App() {
 
 	return (
 		<div className="App">
+			<h1>Hello</h1>
 			<ToastContainer/>
 			<button onClick={onSetOptions(props)}>First Toast</button>
 			<br/>
