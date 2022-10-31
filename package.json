@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://AleksMaifet.github.io/Toast_library_integration",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
