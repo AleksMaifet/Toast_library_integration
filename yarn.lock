@@ -7,10 +7,10 @@
   "resolved" "https://registry.npmjs.org/@adobe/css-tools/-/css-tools-4.0.1.tgz"
   "version" "4.0.1"
 
-"@aleksmaifet/toast_library@^0.0.2":
-  "integrity" "sha512-EapC1A0IdIB8WSe3qCH2gZgpGCtG8u8iIeJ6rC8IlyHuz0kkuBsdjjfjWgpH9ZlG7pvo+E/3KHrX8yxxTRPxWA=="
-  "resolved" "https://registry.npmjs.org/@aleksmaifet/toast_library/-/toast_library-0.0.2.tgz"
-  "version" "0.0.2"
+"@aleksmaifet/toast_library@^0.0.6":
+  "integrity" "sha512-rE8GV5H+BOk5k5Ho48rTXyYw5FJjUy56/RtEObTrM8mwHe+GRUh2z54iKWWiSNd4c4xS6iSCMY9wBZznm9+ZoQ=="
+  "resolved" "https://registry.npmjs.org/@aleksmaifet/toast_library/-/toast_library-0.0.6.tgz"
+  "version" "0.0.6"
 
 "@ampproject/remapping@^2.1.0":
   "integrity" "sha512-qRmjj8nj9qmLTQXXmaR1cck3UXSRMPrbsLJAasZpF+t3riI71BXed5ebIOYwQntykeZuhjsdweEc9BxH5Jc26w=="
